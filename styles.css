@@ -1,0 +1,18 @@
+table, th, td{
+    border: 1px solid black;
+}
+
+body{
+    background-image: url(https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2023/12/Justin-Bieber-and-Hailey-Bieber-IG-e1703870398471.jpg?quality=90&strip=all&w=400&sig=Nb-ymAQg7e2ZjamFM1DjVA);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+table{
+    background-color: antiquewhite;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
